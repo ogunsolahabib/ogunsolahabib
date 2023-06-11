@@ -1,4 +1,15 @@
-### Hi there 👋
+
+### Habib here 👋
+
+## Frontend Engineer with 5 years experience in building great websites and web apps. Dialed in on Performance, S.E.O and accessibilty.
+
+## Skills
+# Core: JavaScript/TypeScript, React, Svelte
+# Familiar: Node (Express), PHP
+
+## Contact me:
+# Email: [ogunsolahabib@yahoo.com](mailto:ogunsolahabib@yahoo.com)
+# LinkedIn: [https://linkedin.com/in/habibogunsola](https://linkedin.com/in/habibogunsola)
 
 <!--
 **ogunsolahabib/ogunsolahabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
