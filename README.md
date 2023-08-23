@@ -5,8 +5,9 @@
 ### Dialed in on Performance, S.E.O and accessibilty.
 
 ## Skills
-- Core: JavaScript/TypeScript, React, Svelte
-- Familiar: Node (Express), PHP
+- JavaScript/TypeScript, React, Svelte
+
+[![Habib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogunsolahabib)](https://github.com/ogunsolahabib/ogunsolahabib)
 
 ## Contact me:
 - Email: [ogunsolahabib@yahoo.com](mailto:ogunsolahabib@yahoo.com)
