@@ -7,8 +7,6 @@
 ## Skills
 - JavaScript/TypeScript, React, Svelte
 
-[![Habib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogunsolahabib)](https://github.com/ogunsolahabib/ogunsolahabib)
-
 ## Contact me:
 - Email: [ogunsolahabib@yahoo.com](mailto:ogunsolahabib@yahoo.com)
 - LinkedIn: [https://linkedin.com/in/habibogunsola](https://linkedin.com/in/habibogunsola)
