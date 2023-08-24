@@ -1,7 +1,7 @@
 
 # Hi there 👋. I'm Habib Ogunsola
 
-## Frontend Engineer with 5 years experience in building great websites and web apps.
+## Frontend Engineer with experience in building great websites and web apps.
 ### Dialed in on Performance, S.E.O and accessibilty.
 
 ## Skills
