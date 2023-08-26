@@ -7,10 +7,6 @@
 ## Skills
 - JavaScript/TypeScript, React, Svelte
 
-## Contact me:
-- Email: [ogunsolahabib@yahoo.com](mailto:ogunsolahabib@yahoo.com)
-- LinkedIn: [https://linkedin.com/in/habibogunsola](https://linkedin.com/in/habibogunsola)
-
 <!--
 **ogunsolahabib/ogunsolahabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
