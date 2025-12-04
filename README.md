@@ -1,6 +1,6 @@
 # Hi, I'm Habib 👋  
 
-📊 **MS in Computational Mathematics | Data & AI Enthusiast | Math-Driven Problem Solver**
+📊 **MS in Quants | SWE and Quant
 
 I explore the intersection of **mathematics, statistics, and computing**. My background blends rigorous mathematical training with hands-on projects in **data science, numerical methods, and applied AI**. I enjoy building tools, models, and experiments that translate theory into practical insights.
 
