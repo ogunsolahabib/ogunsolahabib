@@ -26,7 +26,7 @@ I explore the intersection of **mathematics, statistics, and computing**. My bac
 ---
 
 ## 📫 Connect
-- [LinkedIn](https://www.linkedin.com/in/ogunsolahabib)  
+- [LinkedIn](https://www.linkedin.com/in/habibogunsola)  
 - [Email](mailto:ogunsolahabib@yahoo.com)  
 
 
