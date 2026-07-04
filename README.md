@@ -2,15 +2,12 @@
 
 📊 **MS in Quants | SWE and Quant
 
-I explore the intersection of **mathematics, statistics, and computing**. My background blends rigorous mathematical training with hands-on projects in **data science, numerical methods, and applied AI**. I enjoy building tools, models, and experiments that translate theory into practical insights.
+I explore the intersection of **mathematics, statistics, and computing**. My background blends rigorous mathematical training with hands-on projects in **data science, software engineering, and applied AI**. I enjoy building software in form of tools, models, and experiments that translate theory into practical insights.
 
 ---
 
 ## 🌱 Current Focus
-- Researching **numerical analysis and optimization** methods for real-world systems  
-- Exploring **time series forecasting, stochastic models, and dynamical systems**  
-- Creating **interactive notebooks and visualizations** for teaching & learning applied math  
-- Experimenting with **AI for Math/Science** applications  
+- Experimenting with **AI for Math and Sofware Development** applications  
 
 ---
 
@@ -18,7 +15,7 @@ I explore the intersection of **mathematics, statistics, and computing**. My bac
 **Math & Data:** Linear Algebra, Probability, Statistics, Time Series, Optimization  
 **SWE/Web Dev:** React, JavaScript / TypeScript, Node, Express  
 **Languages:** Python (NumPy, Pandas, Scikit-learn, Statsmodels), R
-**Tools:** Jupyter, LaTeX, Git, Charting/Visualization libraries  
+**Tools:** Jupyter, LaTeX, Git, Charting/Visualization libraries, Claude Code
 
 ---
 
