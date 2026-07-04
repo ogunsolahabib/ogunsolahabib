@@ -1,6 +1,6 @@
 # Hi, I'm Habib 👋  
 
-📊 **MS in Quants | SWE and Quant
+📊 Masters in Quant Math | SWE and Quant Analys
 
 I explore the intersection of **mathematics, statistics, and computing**. My background blends rigorous mathematical training with hands-on projects in **data science, software engineering, and applied AI**. I enjoy building software in form of tools, models, and experiments that translate theory into practical insights.
 
